@@ -1,4 +1,4 @@
-package se.yrgo.ui;
+package ui;
 import models.Book;
 import models.BookCatalog;
 import models.BookNotFoundException;

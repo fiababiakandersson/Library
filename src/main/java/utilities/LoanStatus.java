@@ -1,4 +1,4 @@
-package se.yrgo.utilities;
+package utilities;
 
 public enum LoanStatus {
 	CURRENT,HISTORIC;

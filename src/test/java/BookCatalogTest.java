@@ -1,9 +1,7 @@
-import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
-import se.yrgo.models.Book;
-import se.yrgo.models.BookCatalog;
-import se.yrgo.models.BookNotFoundException;
+import models.Book;
+import models.BookCatalog;
+import models.BookNotFoundException;
 
 public class BookCatalogTest {
 

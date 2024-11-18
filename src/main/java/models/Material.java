@@ -1,4 +1,4 @@
-package se.yrgo.models;
+package models;
 
 public abstract class Material {
 

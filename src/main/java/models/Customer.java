@@ -1,4 +1,4 @@
-package se.yrgo.models;
+package models;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
