@@ -6,20 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd70e354-2023-496e-bfb5-c7df9a79c11d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/BookCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/BookCatalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/BookNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/BookNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Loan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/LoanAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/LoanAlreadyExistsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/LoanNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/LoanNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/models/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Material.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ui/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/utilities/GenderType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/GenderType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/utilities/LoanStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/LoanStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookCatalogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +26,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.library [compile].executor": "Run",
+    "Maven.library [package].executor": "Run",
     "Maven.library [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -80,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731919287849</updated>
-      <workItem from="1731919288762" duration="2873000" />
+      <workItem from="1731919288762" duration="3511000" />
     </task>
     <servers />
   </component>
