@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="dd70e354-2023-496e-bfb5-c7df9a79c11d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookCatalogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/BookCatalogTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/BookTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/BookTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LoanTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-BookCatalogTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-BookTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoanTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BookCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookCatalogTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +39,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.BookCatalogTest.executor": "Run",
+    "JUnit.BookCatalogTest.testAddABook.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBook.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookIgnoringCase.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookThatDoesntExist.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookWithExtraSpaces.executor": "Run",
+    "Maven.library [clean].executor": "Run",
     "Maven.library [compile].executor": "Run",
     "Maven.library [package].executor": "Run",
     "Maven.library [test].executor": "Run",
@@ -52,6 +72,66 @@
       <recent name="C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\src\main\java\se\yrgo" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.BookCatalogTest.testFindBookThatDoesntExist">
+    <configuration name="BookCatalogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookCatalogTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCatalogTest.testFindBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookCatalogTest" />
+      <option name="METHOD_NAME" value="testFindBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCatalogTest.testFindBookIgnoringCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookCatalogTest" />
+      <option name="METHOD_NAME" value="testFindBookIgnoringCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCatalogTest.testFindBookThatDoesntExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookCatalogTest" />
+      <option name="METHOD_NAME" value="testFindBookThatDoesntExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookCatalogTest.testFindBookWithExtraSpaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookCatalogTest" />
+      <option name="METHOD_NAME" value="testFindBookWithExtraSpaces" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookCatalogTest.testFindBookThatDoesntExist" />
+        <item itemvalue="JUnit.BookCatalogTest.testFindBookWithExtraSpaces" />
+        <item itemvalue="JUnit.BookCatalogTest.testFindBookIgnoringCase" />
+        <item itemvalue="JUnit.BookCatalogTest.testFindBook" />
+        <item itemvalue="JUnit.BookCatalogTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731919287849</updated>
-      <workItem from="1731919288762" duration="3511000" />
+      <workItem from="1731919288762" duration="14150000" />
     </task>
     <servers />
   </component>

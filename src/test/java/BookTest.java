@@ -1,6 +1,8 @@
 import org.junit.jupiter.api.Test;
 import models.Book;
 
+import static org.junit.jupiter.api.Assertions.*;
+
 class BookTest {
 
 	//G
@@ -20,7 +22,7 @@ class BookTest {
 				"Book Branch",
 				333);
 
-		org.junit.jupiter.api.Assertions.assertEquals(book1, book2);
+		assertEquals(book1, book2);
 	}
 
 	//G
@@ -39,6 +41,6 @@ class BookTest {
 				"978-0-306-40615-7",
 				"Book Branch",
 				333);
-		org.junit.jupiter.api.Assertions.assertNotEquals(book1, book2);
+		assertNotEquals(book1, book2);
 	}
 }
