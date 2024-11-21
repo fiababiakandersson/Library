@@ -1,5 +1,6 @@
+package models;
+
 import org.junit.jupiter.api.Test;
-import models.Book;
 
 import static org.junit.jupiter.api.Assertions.*;
 

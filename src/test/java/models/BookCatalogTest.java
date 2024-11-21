@@ -1,7 +1,5 @@
+package models;
 
-import models.Book;
-import models.BookCatalog;
-import models.BookNotFoundException;
 import org.junit.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -84,6 +82,8 @@ public class BookCatalogTest {
 	// This test should throw BookNotFoundException in order to pass.
 	@Test
 	public void testFindBookThatDoesntExist() throws BookNotFoundException {
+		BookCatalog bc = new BookCatalog();
+
 		Book book = new Book(123,
 				"Book Title",
 				"Book Author",
@@ -91,7 +91,7 @@ public class BookCatalogTest {
 				"Book Branch",
 				333);
 		bc.addBook(book);
-		assertThrows(BookNotFoundException.class, () -> bc.findBook("No Title"));
+		assertThrows(BookNotFoundException.class, () ->  bc.findBook("No Title"));
 	}
 
 }
