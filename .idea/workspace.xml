@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd70e354-2023-496e-bfb5-c7df9a79c11d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/BookCatalogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/LoanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BookCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookCatalogTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/models/BookCatalogTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/models/BookTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/models/LoanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/BookTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +161,7 @@
       <workItem from="1732022010648" duration="640000" />
       <workItem from="1732024633781" duration="124000" />
       <workItem from="1732025127737" duration="2781000" />
-      <workItem from="1732195446913" duration="1406000" />
+      <workItem from="1732195446913" duration="1720000" />
     </task>
     <servers />
   </component>
