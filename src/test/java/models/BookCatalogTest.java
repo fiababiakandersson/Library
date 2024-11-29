@@ -25,7 +25,7 @@ public class BookCatalogTest {
 				"Book Branch",
 				333);
 		bc.addBook(book);
-		assertEquals(2, bc.getNumberOfBooks(), "The number of books should be 2");
+		assertEquals(2, bc.getNumberOfBooks());
 	}
 
 	//G
