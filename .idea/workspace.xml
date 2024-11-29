@@ -6,121 +6,38 @@
   <component name="ChangeListManager">
     <list default="true" id="dd70e354-2023-496e-bfb5-c7df9a79c11d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/lifecycle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/BookCatalogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/css/apache-maven-fluido-2.0.0-M9.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/accessories-text-editor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/add.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/apache-maven-project-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/application-certificate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/contact-new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/document-properties.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/drive-harddisk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/fix.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/icon_help_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/image-x-generic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/internet-web-browser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/network-server.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/package-x-generic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/profiles/pre-release.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/profiles/retired.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/profiles/sandbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/remove.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/rss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/update.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/images/window-new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/js/apache-maven-fluido-2.0.0-M9.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/surefire.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/copy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/jquery.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/legal/jqueryUI.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/link.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/Book.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/BookCatalog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/BookNotFoundException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/Customer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/Loan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/LoanAlreadyExistsException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/LoanNotFoundException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/Material.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Book.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/BookCatalog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/BookNotFoundException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Customer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Loan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/LoanAlreadyExistsException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/LoanNotFoundException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Material.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/models/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/module-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/search-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/tag-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/ui/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/ui/class-use/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/ui/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/ui/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/ui/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/utilities/GenderType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/utilities/LoanStatus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/utilities/class-use/GenderType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/utilities/class-use/LoanStatus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/utilities/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/utilities/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/utilities/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/models/BookCatalogTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/models/BookTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/models/LoanTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/library-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/close.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookCatalogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookCatalogTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.BookCatalogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.BookCatalogTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,12 +76,13 @@
     &quot;Maven.library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:javadoc].executor&quot;: &quot;Run&quot;,
     &quot;Maven.library [org.apache.maven.plugins:maven-surefire-report-plugin:3.5.2:report].executor&quot;: &quot;Run&quot;,
     &quot;Maven.library [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.library [site].executor&quot;: &quot;Run&quot;,
     &quot;Maven.library [test].executor&quot;: &quot;Run&quot;,
     &quot;Maven.library [validate].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fia/Desktop/courses/Utvecklingsverktyg/Inlämningar/library&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fia/Desktop/courses/Utvecklingsverktyg/Inlämningar/gradleLibrary&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -279,7 +197,9 @@
       <workItem from="1732534015670" duration="921000" />
       <workItem from="1732534954567" duration="34000" />
       <workItem from="1732534992501" duration="30000" />
-      <workItem from="1732540432739" duration="1105000" />
+      <workItem from="1732540432739" duration="1577000" />
+      <workItem from="1732628275569" duration="4499000" />
+      <workItem from="1732799390211" duration="2584000" />
     </task>
     <servers />
   </component>

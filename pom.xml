@@ -38,7 +38,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                src.main.java.models.ui.Main
+                                ui.Main
                             </mainClass>
                         </manifest>
                     </archive>
@@ -47,7 +47,6 @@
         </plugins>
     </build>
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.junit/junit5-api -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
@@ -61,5 +60,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 </project>
