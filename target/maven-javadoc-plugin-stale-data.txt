@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Fia/Desktop/courses/Utvecklingsverktyg/Inlämningar/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Fia/Desktop/courses/Utvecklingsverktyg/Inlämningar/library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\src\main\java = 1731921907832
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\allclasses-index.html = 1732906103123
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\allpackages-index.html = 1732906103128
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\copy.svg = 1732906103209
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\element-list = 1732906102852
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\help-doc.html = 1732906103195
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\index-all.html = 1732906103177
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\index.html = 1732906103088
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\link.svg = 1732906103213
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\member-search-index.js = 1732906103141
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\module-search-index.js = 1732906103132
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\overview-summary.html = 1732906103186
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\overview-tree.html = 1732906103079
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\package-search-index.js = 1732906103135
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\script.js = 1732906103205
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\search-page.js = 1732906103226
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\search.html = 1732906103181
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\search.js = 1732906103221
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\serialized-form.html = 1732906102935
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\stylesheet.css = 1732906103201
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\tag-search-index.js = 1732906103145
+C:\Users\Fia\Desktop\courses\Utvecklingsverktyg\Inlämningar\library\target\site\apidocs\type-search-index.js = 1732906103138
